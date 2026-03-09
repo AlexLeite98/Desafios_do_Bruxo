@@ -12,6 +12,7 @@ monstros surgiram perto de vilas
 A Ordem de Oxenhall acredita que alguém — ou algo — está corrompendo as runas.
 Para investigar, eles enviaram aprendizes pelo continente.
 Você é um deles.
+
 🌱 CAPÍTULO 1
 A Aldeia de Brighthollow
 Após dias cavalgando por estradas lamacentas, você chega à pequena aldeia de Brighthollow.
