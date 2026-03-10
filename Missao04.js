@@ -1,5 +1,5 @@
 function botao(){
 	let nome = document.getElementById("nome").value
-	alert(nome);	
+	document.getElementById('mostrar').innerHTML = nome;
 }
-alert(nome)
+ 
