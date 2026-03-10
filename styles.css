@@ -10,6 +10,7 @@ body{
 	font-family: Arial, Sans-Serif;
 	background: linear-gradient(to right , rgb(50,50,50), rgb(128,128,128), rgb(50,50,50));
 	text-align: center;
+	padding: 5px 5px 5px 5px;
 	
 }
 
