@@ -21,3 +21,6 @@ function alistamento(x, y){
 		return alert(`${x} foi aprovado, pode se alistar!`);
 	}else return alert(`${x} foi reprovado, muito novo, não pode se alistar!`)
 }
+
+let nome = 
+let idade =
