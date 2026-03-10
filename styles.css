@@ -6,7 +6,7 @@
 }
 
 body{
-	min-height: 100%;
+	min-height: 100vh;
 	font-family: Arial, Sans-Serif;
 	background: linear-gradient(to top, red, blue);
 }
