@@ -13,3 +13,13 @@ Os moradores observam em silêncio enquanto você analisa o número.
 Criar um programa que:
 receba um número
 descubra se ele é par ou ímpar **/
+
+function analise(x){
+	if(x % 2 == 0){
+		return alert('Ordem dos pares!');
+	}else return alert('Caos dos impares!');
+}
+
+let runa = Number(prompt('Coloque sua runa para analisa-la.'));
+
+analise(runa)
