@@ -1,2 +1,2 @@
-
-console.log('Ola mundo');
+let nome = document.getElementById('nome').value
+alert(nome);
