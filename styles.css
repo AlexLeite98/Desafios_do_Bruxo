@@ -12,3 +12,7 @@ body{
 	text-align: center;
 	align-items: center;
 }
+
+header{
+	background: linear-gradient(to bottom, rgb(50,50,50));
+}
