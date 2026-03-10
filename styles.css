@@ -8,5 +8,5 @@
 body{
 	min-height: 100vh;
 	font-family: Arial, Sans-Serif;
-	background: linear-gradient(to rigth, rgb(50, 50, 50) , rgb(128, 128, 128), rgb(200, 200, 200));
+	background: linear-gradient(to rigth, gray, black);
 }
