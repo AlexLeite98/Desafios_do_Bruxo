@@ -15,3 +15,12 @@ receba duas notas
 calcule a média
 mostre o resultado **/
 //console.log(`${}`); \n
+
+function media(x, y){
+	let media = (x + y)/2;
+	
+	if(media >= 8){
+		return alert('Aprovado');
+	}else alert('Reprovado');
+}
+
