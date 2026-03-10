@@ -24,3 +24,5 @@ function media(x, y){
 	}else alert('Reprovado');
 }
 
+let nota1 = Number(prompt('Nota em conhecimento arcano:'));
+let nota2 = Number(prompt('Nota em controle de runas:'));
