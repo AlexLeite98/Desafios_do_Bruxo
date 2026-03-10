@@ -22,5 +22,7 @@ function alistamento(x, y){
 	}else return alert(`${x} foi reprovado, muito novo, não pode se alistar!`)
 }
 
-let nome = 
-let idade =
+let nome = prompt('Qual é o seu nome?');
+let idade = Number(prompt('Qual a sua idade?'));
+
+alistamento(nome,idade)
