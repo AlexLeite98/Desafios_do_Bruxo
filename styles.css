@@ -20,7 +20,7 @@ header{
 
 section{
 	background: gray;
-	
+	height: auto;
 	width: 200px;
 	margin: auto;
 	
