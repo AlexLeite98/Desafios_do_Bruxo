@@ -14,9 +14,10 @@ Se você conseguir criar um sistema de verificação, poderá ajudar a organizar
 Criar um programa que:
 1 receba a idade de uma pessoa
 2 diga se ela pode se alistar ou não **/
+//console.log(`${}`); \n
 
 function alistamento(x, y){
 	if(y >= 18){
-		return alert()
-	}
+		return alert(`${x} foi aprovado, pode se alistar!`);
+	}else return alert(`${x} foi reprovado, muito novo, não pode se alistar!`)
 }
