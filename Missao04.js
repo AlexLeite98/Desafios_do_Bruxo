@@ -1,2 +1,4 @@
-let nome = document.getElementById('nome').value
-alert(nome);
+function botao(){
+	let nome = document.getElementById('nome').value
+	return alert(nome);	
+}
