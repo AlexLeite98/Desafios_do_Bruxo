@@ -11,12 +11,13 @@ body{
 	background: linear-gradient(to right , rgb(50,50,50), rgb(128,128,128), rgb(50,50,50));
 	text-align: center;
 	align-items: center;
-	margin: 20px;
+	
 	
 }
 
 header{
 	background: linear-gradient(to bottom, rgb(211,175,55), rgba(211,175,55, 0.3));
+	margin: 20px;
 }
 
 section{
