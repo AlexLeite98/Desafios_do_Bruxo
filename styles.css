@@ -43,7 +43,7 @@ img{
 }
 
 #secao{
-	background: linear-gradient(to right, rgba(90, 46, 12, 0.5), rgba(123, 63, 0, 0.5), rgba(90, 46, 12, 0.5));
+	background: linear-gradient(to right, rgba(90, 46, 12, 0.7), rgba(123, 63, 0, 0.7), rgba(90, 46, 12, 0.7));
 	height: auto;
 	width: 400px;
 	margin: 5px auto;
