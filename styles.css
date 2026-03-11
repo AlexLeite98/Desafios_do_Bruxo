@@ -5,6 +5,13 @@
 	
 }
 
+.cinzel-<uniquifier> {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body{
 	min-height: 100vh;
 	font-family: Arial, Sans-Serif;
