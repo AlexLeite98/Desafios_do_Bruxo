@@ -31,7 +31,7 @@ body{
 header{
 	background: linear-gradient(to bottom, rgb(211,175,55), rgba(211,175,55, 0.3));
 	box-shadow: 0px 5px 5px rgba(211,175,55, 0.3);
-	text-shadow: 2px 0.5px 2px black;
+	text-shadow: 2px 0.5px 2px #C0C0C0;
 }
 
 section{
