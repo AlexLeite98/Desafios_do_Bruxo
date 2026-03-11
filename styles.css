@@ -37,6 +37,7 @@ header{
 img{
 	height: 300px;
 	margin: 15px;
+	border-radius: 14px;
 }
 
 #secao{
