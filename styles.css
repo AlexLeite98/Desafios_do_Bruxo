@@ -5,12 +5,16 @@
 	
 }
 
-
+.cinzel-<uniquifier> {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 body{
 	min-height: 100vh;
 	font-family: "Cinzel", serif;
-
 	background: linear-gradient(to right , rgb(50,50,50), rgb(128,128,128), rgb(50,50,50));
 	text-align: center;
 	align-items: center;
