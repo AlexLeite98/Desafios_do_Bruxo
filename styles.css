@@ -34,6 +34,10 @@ header{
 	text-shadow: 2px 2px 2px #333333;
 }
 
+img{
+	height: 200px;
+}
+
 #secao{
 	background: gray;
 	height: 100vh;
